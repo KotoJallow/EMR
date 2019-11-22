@@ -1,0 +1,10 @@
+C:\Users\siminko\source\repos\EMR\DAL\bin\Debug\DAL.dll
+C:\Users\siminko\source\repos\EMR\DAL\bin\Debug\DAL.pdb
+C:\Users\siminko\source\repos\EMR\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\siminko\source\repos\EMR\DAL\bin\Debug\System.Data.SQLite.xml
+C:\Users\siminko\source\repos\EMR\DAL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\siminko\source\repos\EMR\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\siminko\source\repos\EMR\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\siminko\source\repos\EMR\DAL\obj\Debug\DAL.dll
+C:\Users\siminko\source\repos\EMR\DAL\obj\Debug\DAL.pdb
+C:\Users\siminko\source\repos\EMR\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
